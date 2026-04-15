@@ -32,7 +32,7 @@ OpenUser uses USER.md, an open standard for giving AI agents personal context ab
 - 🎥 YouTube: [channel]
 - 🐦 X: [handle]
 -->
-- 🌐 [openuser.ai](https://openuser.ai) (coming soon)
+- 🌐 [openuser.ai](https://openuser.ai) (waitlist is open!)
  
 ## Feedback
  
