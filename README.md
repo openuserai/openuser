@@ -23,6 +23,8 @@ The context about you that exists today is fragmented, incomplete, and stale. No
 ## USER.md
  
 OpenUser uses USER.md, an open standard for giving AI agents personal context about a person.
+> [!NOTE]
+> [USER.md](https://github.com/openuserai/openuser/blob/main/USER.md) Standard
  
 ## Status
  
