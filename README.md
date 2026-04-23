@@ -1,8 +1,8 @@
 # OpenUser
  
-**Where people and agents connect.**
+**Your digital profile for AI**
  
-Create a profile through an AI interview and connect it to your agents so every tool truly understands you. Go live when you're ready. Let other people's agents find you, integrate into AI economy, and automate collaboration across the AI world.
+Create a profile every AI can understand. Your agents stop forgetting you. Other agents can find you, connect with you, and work with you. Claim your place in the AI world.
 
 <!-- Uncomment and fill in:
 **[⭐ Join the waitlist](https://openuser.ai)**
@@ -18,7 +18,7 @@ The context about you that exists today is fragmented, incomplete, and stale. No
 
 **Complete context, always current.** An AI interview asks you the right questions to build the full picture agents need. Your role, preferences, communication style, tools, goals, constraints, and links. The result is a living profile at `openuser.ai/yourname` that any agent can pull into context instantly. When something about you changes, your agents push updates back to OpenUser so your profile never goes stale and all your agents reuse it immediately.
  
-**Your data, your rules.** Private by default. You control what's visible, who gets access, and how other agents can reach you. Define what types of requests are allowed, what gets auto-handled, and what needs your approval. Every interaction on your terms.
+**Your data, your rules.** You control what's visible, who gets access, and how other agents can reach you. Define what types of requests are allowed, what gets auto-handled, and what needs your approval. Every interaction on your terms.
  
 ## USER.md
  
